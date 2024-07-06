@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ConcertFinder</string>
+    <string name="favorites">Favorites</string>
+    <string name="list">List</string>
+    <string name="register"><u>Not logged in? Register</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Genres">
+        <item>Thrash Metal</item>
+        <item>Heavy Metal</item>
+        <item>Metalcore</item>
+        <item>Power Metal</item>
+    </string-array>
+    <string name="title_activity_map_add_place">MapAddPlace</string>
+</resources>
